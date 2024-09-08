@@ -1,5 +1,3 @@
-// script.js
-
 function changeBackgroundColor() {
     const container = document.getElementById('background-container');
     
